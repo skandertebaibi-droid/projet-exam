@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="">
+    <title>ecole de danse e-learning</title>
+</head>
+<body>
+<header>
+    <h1>ECOLE DE DANSE E-LEARNING</h1>
+</header>
+<form action="" method="post">
+    <label for="username">Username:</label>
+    <input type="text" name="username" placeholder="Username">
+</form>
+
+
+
+<h2>Cours disponibles</h2>
+<div>
+    <ul>
+        <li>Cours de powermove</li>
+        <p>
+
+
+
+
+
+        </p>
+        <li>Cours de breakdance</li>
+        <p>
+
+        </p>
+        <li>Cours de tricking</li>
+        <p>
+
+        </p>
+    </ul>
+    
+
+
+
+
+
+
+
+</div>
+
+
+<h3>professeurs</h3>
+
+<div>
+    <ol>
+        <li>professeur de powermove</li>
+        <p>
+
+        </p>
+        <li>professeur de breakdance</li>
+        <p>
+
+        </p>
+        <li>professeur de tricking</li>
+        <p>
+
+        </p>
+    </ol>
+</div>
+
+
+
+<table>
+
+</table>
+
+
+
+
+
+
+    
+</body>
+
+
+
+
+
+
+<footer>
+    <p>© 2024 Ecole de danse e-learning. Tous droits réservés.</p>
+    <p>
+        <a href="@skande.sklz">instagram</a>
+    </p>
+</footer>
+</html>DOCTYPE <HTml></HTml>
